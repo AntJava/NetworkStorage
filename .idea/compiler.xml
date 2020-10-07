@@ -11,6 +11,7 @@
         <module name="nettycloud" />
         <module name="common" />
         <module name="nettyCloud" />
+        <module name="NetworkStorage" />
       </profile>
     </annotationProcessing>
   </component>
